@@ -1,9 +1,18 @@
 # ReactClickyGame
 
+## GoLang Gophers
+
+All images provided by the wonderful Maria Letta
+
+[https://github.com/MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack)
+
+## How to Play
+
+## Misc React info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
