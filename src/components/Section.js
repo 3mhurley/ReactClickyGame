@@ -95,7 +95,7 @@ function Section(props) {
 									<CardMedia
 										component='img'
 										className={classes.cardMedia}
-										image={"../Images/gophers/" + card + ".png"}
+										image={"../images/gophers/" + card + ".png"}
 										title={"Gopher " + card}
 									/>
 									{/* </CardActionArea> */}
